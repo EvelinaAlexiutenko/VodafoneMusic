@@ -1,5 +1,5 @@
 # University ML project
-Project of ML in our University
+Project of ML in our University <br>
 Results 
 | Solution      | F1 score|      
 | ------------- | --------|
